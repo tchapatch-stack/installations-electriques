@@ -1,0 +1,27 @@
+# ============================================
+# .gitignore pour site installations-electriques
+# ============================================
+
+# Fichiers système Windows
+Thumbs.db
+desktop.ini
+*.tmp
+
+# Fichiers système macOS
+.DS_Store
+
+# Fichiers de sauvegarde
+*~
+*.bak
+*.swp
+
+# Logs
+*.log
+
+# ============================================
+# CONTENU CONSERVÉ :
+# ============================================
+# ✅ Tous les PDF pédagogiques (examens CFC, normes)
+# ✅ Structure HTML/CSS/JS complète
+# ✅ Tous les dossiers de contenu
+# ✅ Images et ressources
